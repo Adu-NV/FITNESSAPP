@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "FADE267C-3EB1-4689-9FAA-054857D46F20"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.ExceptionBreakpoint">
+         <BreakpointContent
+            uuid = "3BD48663-A737-4832-992A-7C166D7BCBC2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            scope = "1"
+            stopOnStyle = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8EF879E0-EE2E-4172-B9A0-EA7921881238"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Fitness-App/ViewControllers/PackageHistoryViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "getPaymentHistory()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A1541EF0-F64C-4F4E-AABB-302E8C3E3591"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Fitness-App/Tabbar/DietViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "134"
+            endingLineNumber = "134"
+            landmarkName = "DietViewController"
+            landmarkType = "21">
+            <Locations>
+               <Location
+                  uuid = "A1541EF0-F64C-4F4E-AABB-302E8C3E3591 - 7d29f00ff137d459"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Bool, Swift.Optional&lt;Swift.String&gt;, Swift.Optional&lt;Fitness_App.WorkoutDoneModel&gt;) -&gt; () in Fitness_App.DietViewController.doneTapped(index: Swift.Int) -&gt; ()"
+                  moduleName = "Fitness-App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/netventure/Documents/Projects/Fitness-App/Fitness-App/Tabbar/DietViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "133"
+                  endingLineNumber = "133"
+                  offsetFromSymbolStart = "281">
+               </Location>
+               <Location
+                  uuid = "A1541EF0-F64C-4F4E-AABB-302E8C3E3591 - 77506b5ce0bc3316"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #1 (Swift.Bool, Swift.Optional&lt;Swift.String&gt;, Swift.Optional&lt;Fitness_App.WorkoutDoneModel&gt;) -&gt; () in Fitness_App.DietViewController.doneTapped(index: Swift.Int) -&gt; ()"
+                  moduleName = "Fitness-App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/netventure/Documents/Projects/Fitness-App/Fitness-App/Tabbar/DietViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "134"
+                  endingLineNumber = "134"
+                  offsetFromSymbolStart = "19">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CB220D0A-38AF-4C4F-93C3-2AA926DCA536"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Fitness-App/ViewControllers/PackageDetailViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "157"
+            endingLineNumber = "157"
+            landmarkName = "showAlert(message:boolValue:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1C9C4689-EC9A-4DC9-8F6C-177FBDAFDC27"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Fitness-App/ViewControllers/PackageDetailViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "136"
+            endingLineNumber = "136"
+            landmarkName = "successAPICall()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1C9C4689-EC9A-4DC9-8F6C-177FBDAFDC27 - 358839613752a3b4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Fitness_App.PackageDetailViewController.successAPICall() -&gt; ()"
+                  moduleName = "Fitness-App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/netventure/Documents/Projects/Fitness-App/Fitness-App/ViewControllers/PackageDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "136"
+                  endingLineNumber = "136"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "1C9C4689-EC9A-4DC9-8F6C-177FBDAFDC27 - 5d9ca78129a4d79f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Bool, Swift.Optional&lt;Swift.String&gt;, Swift.Optional&lt;Fitness_App.SuccessResponseModel&gt;) -&gt; () in Fitness_App.PackageDetailViewController.successAPICall() -&gt; ()"
+                  moduleName = "Fitness-App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/netventure/Documents/Projects/Fitness-App/Fitness-App/ViewControllers/PackageDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "137"
+                  endingLineNumber = "137"
+                  offsetFromSymbolStart = "184">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FAB9A7A1-4F40-4C08-9C21-E119A8A57ED6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Fitness-App/ViewControllers/PackageDetailViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "146"
+            endingLineNumber = "146"
+            landmarkName = "failureAPICall()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
